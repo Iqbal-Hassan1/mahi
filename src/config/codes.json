@@ -1,0 +1,22 @@
+{
+    "NO_RECORD_FOUND": {
+        "message": "No record exists in the system.",
+        "status": 406
+    },
+    "PASSWORD_INCORRECT":{
+        "message":"Password is incorrect",
+        "status":406
+    },
+    "INVALID_TOKEN":{
+        "message":"Invalid Token",
+        "status":401
+    },
+    "ACCESS_IS_FORBIDDEN":{
+        "message":"Access is forbidden",
+        "status":403
+    },
+    "SESSION_EXPIRED":{
+        "message":"Session is expired",
+        "status":440
+    }
+}
